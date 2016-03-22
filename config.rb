@@ -11,6 +11,8 @@ set :partials_dir, 'partials'
 
 set :data_dir, 'data'
 
+set :layouts_dir, 'layouts'
+
 ###
 # Page options, layouts, aliases and proxies
 ###
