@@ -9,6 +9,8 @@ set :images_dir, 'images'
 
 set :partials_dir, 'partials'
 
+set :data_dir, 'data'
+
 ###
 # Page options, layouts, aliases and proxies
 ###
