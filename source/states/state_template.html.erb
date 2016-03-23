@@ -1,0 +1,39 @@
+---
+title: <%= name_full %>
+---
+
+<h3>Online</h3>
+<p>Website: <a href="<%= website %>"><%= website %></a></p>
+<p>Wiki: <a href="<%= wiki %>"><%= wiki %></a></p>
+<p>Facebook: <a href="<%= facebook %>"><%= facebook %></a></p>
+<p>Twitter: <a href="<%= twitter %>"><%= twitter %></a></p>
+
+<h3>Contact</h3>
+<p>Email: <a href="mailto:<%= email %>"><%= email %></a></p>
+<p>Phone: <%= phone %></p>
+<p>Address:<br><%= address %></p>
+
+<h3>Officers</h3>
+<p>Captain: <%= captain %></p>
+<p>First Officer: <%= first_officer %></p>
+<p>Quartermaster: <%= quartermaster %></p>
+<% if pnc_representatives %>
+<p>National Council Representatives:
+  <ul>
+  <% pnc_representatives.each do |representative| %>
+    <li><%= representative %></li>
+<% end %>
+  </ul>
+</p>
+<% end %>
+<% if additional_officers %>
+<p>Additional Officers:
+  <ul>
+  <% additional_officers.each do |key, value| %>
+    <li><%= key %>: <%= value %></li>
+  <% end %>
+  </ul>
+</p>
+<% end %>
+
+

@@ -73,6 +73,14 @@ configure :development do
   activate :livereload
 end
 
+###
+# State Party Pages
+###
+# clients = "data/clients"
+data.states.each do |state|
+  proxy "/states/#{state[0]}.html", "/states/state_template.html", :locals => state[1], :ignore => true
+end
+
 # Methods defined in the helpers block are available in templates
 # helpers do
 #   def some_helper

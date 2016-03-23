@@ -1,0 +1,11 @@
+---
+title: State Parties
+---
+<section class="state">
+  <ul>
+  <% data.states.each do |state| %>
+    <li><%= link_to state[1].state, '/states/'+state[0]+'.html' %></li>
+  <% end %>
+  </ul>
+</section>
+

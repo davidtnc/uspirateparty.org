@@ -1,0 +1,29 @@
+state: Massachusetts
+state_abbr: MA
+name_full: Massachusettes Pirate Party
+name_abbr: MAPP
+
+# ONLINE PROFILES
+website: https://masspirates.org/
+wiki: https://masspirates.org/wiki/Main_Page
+facebook: https://www.facebook.com/pages/Massachusetts-Pirate-Party/176607529061218
+twitter: https://twitter.com/masspirates
+youtube: https://www.youtube.com/user/masspirates
+linkedin:
+
+# CONTACT
+email: https://masspirates.org/wiki/Main_Page
+phone: 617-863-6277
+address: 25 Moore St., Somerville, MA 02144
+
+# OFFICERS
+captain: "James O'Keefe"
+first_officer: Noelani Kamelamela
+quartermaster: Steve Revilak
+additional_officers:
+  "PR/Media Director": Halley Murray
+  "Activism Director": Joseph Moore
+  "Swarmwise Director": Jamie Slate
+  "Web/Info Director": Benjamin Cook
+pnc_representatives:
+  - Lucia Fiero

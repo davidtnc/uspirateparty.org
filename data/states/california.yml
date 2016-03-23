@@ -1,0 +1,27 @@
+state: California
+state_abbr: CA
+name_full: California Pirate Party
+name_abbr: CAPP
+
+# ONLINE PROFILES
+website: http://www.calpirateparty.org/
+wiki: https://masspirates.org/wiki/Main_Page
+facebook: http://www.facebook.com/CalPirateParty
+twitter: https://twitter.com/CalPirateParty
+youtube: https://www.youtube.com/user/masspirates
+linkedin:
+
+# CONTACT
+email: calpirateparty at gmail dot com
+phone: NA
+address: 1267 48th Ave, San Francisco, CA 94122
+
+# OFFICERS
+captain: Jake Ziering
+first_officer: Orion Steele
+quartermaster: Constance Gordon
+additional_officers:
+  "Treasurer": Halley Murray
+  "Technology": Joseph Moore
+  "Regional Director, SoCal": Jamie Slate
+pnc_representatives:
