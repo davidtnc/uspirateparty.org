@@ -2,6 +2,8 @@
 title: Leadership
 ---
 
+##Leadership##
+
 The Leadership of the Pirate National Committee works to facilitate meetings and communications between State Pirate Parties and help to provide resources of information and assistance to those who need it. Our current leadership team was elected in February 2016 for a one-year term and comprises:
 
 ###Chairperson###

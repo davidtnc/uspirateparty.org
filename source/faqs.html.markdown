@@ -2,6 +2,8 @@
 title: FAQs
 ---
 
+##FAQs##
+
 - [Why are you called the Pirate Party?](#q1)
 
 - [What does the Pirate Party stand for?](#q2)
