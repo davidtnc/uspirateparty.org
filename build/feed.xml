@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/blog</id>
+  <link href="http://blog.url.com/blog"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2016-03-07T08:05:28-05:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>New Board Elected</title>
+    <link rel="alternate" href="http://blog.url.com/blog/New-Board-Elected/"/>
+    <id>http://blog.url.com/blog/New-Board-Elected/</id>
+    <published>2016-03-07T08:05:28-05:00</published>
+    <updated>2016-03-22T17:09:10-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;The United States Pirate Party elected a new board on February 24th, 2016. They are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chair: &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#098;&amp;#111;&amp;#115;&amp;#111;&amp;#110;&amp;#032;&amp;#097;&amp;#116;&amp;#032;&amp;#119;&amp;#112;&amp;#112;&amp;#032;&amp;#100;&amp;#111;&amp;#116;&amp;#032;&amp;#099;&amp;#111;&amp;#109;"&gt;Joseph Klein&lt;/a&gt;, of the Wisconsin Pirate Party.
+  PGP fingerprint: B713 4744 00F2 AF06 4CD2  B613 58A1 3EF2 41CA 01EE&lt;/li&gt;
+  &lt;li&gt;Vice Chair: &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#111;&amp;#107;&amp;#101;&amp;#101;&amp;#102;&amp;#101;&amp;#032;&amp;#097;&amp;#116;&amp;#032;&amp;#106;&amp;#097;&amp;#109;&amp;#101;&amp;#115;&amp;#111;&amp;#107;&amp;#101;&amp;#101;&amp;#102;&amp;#101;&amp;#032;&amp;#100;&amp;#111;&amp;#116;&amp;#032;&amp;#111;&amp;#114;&amp;#103;"&gt;James O’Keefe&lt;/a&gt;, of the Massachusetts Pirate Party.
+PGP fingerprint: 9F7C 6B6C EA9F E2D3 6489  B826 A8B0 F73D AAFF 1FEC;&lt;/li&gt;
+  &lt;li&gt;Secretary: &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#115;&amp;#117;&amp;#116;&amp;#114;&amp;#097;&amp;#108;&amp;#117;&amp;#032;&amp;#097;&amp;#116;&amp;#032;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#032;&amp;#100;&amp;#111;&amp;#116;&amp;#032;&amp;#099;&amp;#111;&amp;#109;"&gt;Lucia Fiero&lt;/a&gt;, of the Massachusetts Pirate Party.
+PGP fingerprint: FA8A 2CB2 EAEA 6D2A 5735  C5F8 D15C 6364 BCAD DE22.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We wish to thank Andrew Norton and Liz Brunner for their previous service as Chair and Vice Chair.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in starting a local or state Pirate Party chapter or helping the US Pirate Party, please contact us at the email addresses above. Thanks!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Today: Tell the FBI "No Backdoor in Our Phones"</title>
+    <link rel="alternate" href="http://blog.url.com/blog/Today-Tell-the-FBI-No-Backdoor-in-Our-Phones/"/>
+    <id>http://blog.url.com/blog/Today-Tell-the-FBI-No-Backdoor-in-Our-Phones/</id>
+    <published>2016-02-23T04:00:47-05:00</published>
+    <updated>2016-03-22T16:57:48-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Reposted from the 
+&lt;a href="https://masspirates.org/"&gt;Massachusetts Pirate Party blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Today we are joining with Fight for the Future and other groups to protest a judge's order to Apple to build a software "backdoor" to help them hack into the encrypted iPhone of Syed Farook, one of the San Bernardino shooters. We will meet at 5:30pm at the Apple Store, 815 Boylston Street in Boston. If you cannot attend the Boston rally, you can find others at 
+&lt;a href="https://www.dontbreakourphones.org/"&gt;dontbreakourphones.org&lt;/a&gt;. Fight for the Future has 
+&lt;a href="https://ProtestSign.org"&gt;computer/smart phone sign you can get and display&lt;/a&gt; and 
+&lt;a href="https://www.dontbreakourphones.org/images/flyer.pdf"&gt;a flyer you can print out and bring&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The 
+&lt;a href="https://www.techdirt.com/articles/20160220/22154433660/fbi-told-san-bernardino-to-change-password-which-is-why-fbi-now-cant-access-farooks-iphone-data.shtml"&gt;FBI botched recovering the data&lt;/a&gt; on the phone using existing user recovery methods (and with Apple's help) and 
+&lt;a href="https://www.techdirt.com/articles/20160220/22412933661/no-fbi-does-not-need-info-farooks-iphone-this-is-entirely-about-precedent.shtml"&gt;isn't likely to find anything of value on the phone&lt;/a&gt;. The FBI says that order is confined to just one phone, but 
+&lt;a href="https://theintercept.com/2016/02/22/fbi-says-apple-court-order-is-narrow-but-other-law-enforcers-hungry-to-exploit-it/"&gt;others are eager to exploit a win by the FBI&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Following this order gives the FBI a precedent for getting a backdoor in any phone. Once that precedent is set, it won't be too long before the FBI will be using FISA warrants or potentially no warrants to get into our phones. And if the back door exists, then other countries that don't have our SCOTUS-limited 4th Amendment will be using it to get into the phones of dissidents. Whatever your feelings about Apple, this issue affects all encryption software, and thus potentially everyone's privacy.&lt;/p&gt;
+
+&lt;p&gt;If you cannot attend the Boston rally, you can find others at 
+&lt;a href="https://www.dontbreakourphones.org/"&gt;dontbreakourphones.org&lt;/a&gt;. You can even organize one at an Apple store near you, just email 
+&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#064;&amp;#102;&amp;#105;&amp;#103;&amp;#104;&amp;#116;&amp;#102;&amp;#111;&amp;#114;&amp;#116;&amp;#104;&amp;#101;&amp;#102;&amp;#117;&amp;#116;&amp;#117;&amp;#114;&amp;#101;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#064;&amp;#102;&amp;#105;&amp;#103;&amp;#104;&amp;#116;&amp;#102;&amp;#111;&amp;#114;&amp;#116;&amp;#104;&amp;#101;&amp;#102;&amp;#117;&amp;#116;&amp;#117;&amp;#114;&amp;#101;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt; so Fight for the Future knows about it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.markfiore.com"&gt;Mark Fiore&lt;/a&gt; has a funny cartoon on being "wiretap friendly" that applies just as well here. Lets make sure we can laugh about this and not fear for our privacy and security.&lt;/p&gt;
+
+&lt;iframe width="630" height="472" frameborder="0" src="https://www.youtube.com/embed/2-34Iyz7EYk"&gt;&lt;/iframe&gt;
+</content>
+  </entry>
+  <entry>
+    <title>First they came for an iPhone 5c</title>
+    <link rel="alternate" href="http://blog.url.com/blog/First-they-came-for-an-iPhone-5c/"/>
+    <id>http://blog.url.com/blog/First-they-came-for-an-iPhone-5c/</id>
+    <published>2016-02-20T07:30:44-05:00</published>
+    <updated>2016-03-22T16:57:48-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Posting here and at 
+&lt;a href="https://www.jamesokeefe.org"&gt;jamesokeefe.org&lt;/a&gt; &amp;amp; 
+&lt;a href="https://masspirates.org"&gt;masspirates.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The FBI got a judge to order Apple to create a custom iOS version so they can decrypt the work iPhone 5c of Syed Farook, one of the San Bernardino shooters. They want Apple to push out a custom version that will disable the delays between wrong pin entries and the ten wrong pin tries and the phone gets wiped security feature. Apple is fighting it.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This Tuesday, Fight for the Future, the Massachusetts Pirate Party and others will protest the judge’s order. We will meet at 5:30pm in front of our local Apple Stores. To find the rally location near you, visit 
+&lt;a href="https://www.dontbreakourphones.org/"&gt;www.dontbreakourphones.org&lt;/a&gt;. Join us and stand up for your privacy and right to keep your data encrypted and secure.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Considering that ISIS didn't know about the attack, it is doubtful there is much on the phone that will help them get other leads. The FBI can already request the metadata (who was called, when, how long, from where) for Farook's communications using the phone or any other service the shooters used. The mobile phone providers are always willing to provide that information, often for a fee. Whatever other info they need, the NSA has likely gathered it with their mass surveillance program. FBI could use the NSA's data to identify what other information they need and then get a subpoena to get the data legally, though unconstitutionally.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/onekade/status/700840331412164609"&gt;&lt;img alt="SnowdenFBIXKeyscore" src="https://uspirates.org/img/SnowdenFBIXKeyscore.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It isn't as if the Federal government hasn't used 
+&lt;a href="https://www.washingtonpost.com/news/the-switch/wp/2013/08/05/the-nsa-is-giving-your-phone-records-to-the-dea-and-the-dea-is-covering-it-up/"&gt;parallel construction in the past&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The phone was owned by Farook's employer, the San Bernardino Health Department, and 
+&lt;a href="https://www.techdirt.com/articles/20160219/17463033656/footnote-reveals-that-san-bernardino-health-dept-reset-syed-farooks-password-which-is-why-were-now-this-mess.shtml"&gt;someone there reset the phone in an attempt to gain access&lt;/a&gt;. Had they not, the FBI could have backed up the data to Apple's iCloud service and gained access to it. It isn't clear who made the decision to reset the password.&lt;/p&gt;
+
+&lt;p&gt;Which is all good for the FBI, because it gives them the excuse they need to force Apple to modify iOS to make it easier to break into, and set a precedent for getting a backdoor in any phone, 
+&lt;a href="https://www.techdirt.com/articles/20160218/10371233643/yes-backdoor-that-fbi-is-requesting-can-work-modern-iphones-too.shtml"&gt;even newer ones&lt;/a&gt;. Once those backdoors are there, anyone can take advantage of them whether the security services of other countries, criminals or abusive ex-boyfriends. 
+&lt;a href="http://qz.com/332059/apple-is-reportedly-giving-the-chinese-government-access-to-its-devices-for-a-security-assessment/"&gt;That process may already have begun with China.&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So please come out this Tuesday and join the Fight for the Future, the Massachusetts Pirate Party and others to protest the judge’s order. We will meet at 5:30pm in front of Apple Stores around the US.  To find the rally location near you, visit 
+&lt;a href="https://www.dontbreakourphones.org/"&gt;www.dontbreakourphones.org&lt;/a&gt; The more people who stand up for privacy and encryption, the stronger is our message.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;More articles to read on this subject:&lt;/p&gt;
+
+&lt;p&gt;*&lt;a href="http://time.com/4229601/real-reason-apple-is-fighting-the-fbi/"&gt;This Is the Real Reason Apple Is Fighting the FBI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;*&lt;a href="https://lawfareblog.com/not-slippery-slope-jump-cliff"&gt;Not a Slippery Slope, but a Jump off the Cliff&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;*&lt;a href="https://www.techdirt.com/articles/20160219/07072533648/dont-believe-hype-no-apple-has-not-done-what-fbi-now-wants-70-times-before.shtml"&gt;Don't Believe The Hype: No, Apple HAS NOT Done What The FBI Now Wants '70 Times' Before&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Pirate National Committee Meeting on February 24!</title>
+    <link rel="alternate" href="http://blog.url.com/blog/Pirate-National-Committee-Meeting-on-February-24/"/>
+    <id>http://blog.url.com/blog/Pirate-National-Committee-Meeting-on-February-24/</id>
+    <published>2016-02-18T07:34:29-05:00</published>
+    <updated>2016-03-22T16:57:48-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;To elect our new Pirate National Committee board, we will have a meeting on February 24, 2016, at 9PM Eastern time on our IRC channel. Nominations for the open positions are open until this Tuesday, February 23, 2016, 11:59 Pacific time.&lt;/p&gt;
+
+&lt;p&gt;To see the agenda, please click 
+&lt;a href="https://pnc.piratenpad.de/PNC-2016-2-24"&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Andrew Norton Resigns as USPP Chair</title>
+    <link rel="alternate" href="http://blog.url.com/blog/Andrew-Norton-Resigns-as-USPP-Chair/"/>
+    <id>http://blog.url.com/blog/Andrew-Norton-Resigns-as-USPP-Chair/</id>
+    <published>2016-02-08T16:36:13-05:00</published>
+    <updated>2016-03-22T16:57:48-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;[caption id="attachment_844" align="alignright" width="300"]
+![Andrew "K&lt;code&gt;Tetch" Norton](https://uspirates.org/img/20150310_150151-e1426032710644-300x300.jpg) Andrew "K&lt;/code&gt;Tetch" Norton[/caption]&lt;/p&gt;
+
+&lt;p&gt;I’ll come as no surprise to many that today I’m announcing my resignation from the USPP, effective March 1 2016. I’ve been with it I’ve been with the USPP off and on since July 2006, and in the last 9.5 years, I’ve learnt a lot, experienced more, and made a lot of friends, and professional contacts. I also learnt some languages, helped coordinate some campaigns, co-edited and published a book, and spent a bunch of time looking really uncomfortable on TV cameras (be it G4TV’s Attack of the Show on "
+&lt;a href="https://www.youtube.com/watch?v=yYWdPU4Ti9M"&gt;Porn Piracy&lt;/a&gt;", or Al Jazeera America’s The Stream on 
+&lt;a href="http://america.aljazeera.com/watch/shows/the-stream/the-latest/2013/11/12/hacktivism.html"&gt;the sentencing of a computer hacker&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;However, much as I was in the summer of 2009, I’m just about out of steam on the Pirate front at present. One of my biggest problems is that I’ve allowed myself to be drawn into too many different (albeit complimentary) directions, and thus spread myself too thin. I have a whole host of projects either part started, or waiting for me to start. It’s come to the point where I have so many commitments that I can’t do any of them to a level that satisfies me. So in order to do that, I need to reduce some of my commitments, and the Pirate Party is one of them.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s not that I don’t feel the Pirate Party (or indeed the Pirate movement as a whole) is important, it’s that in order to dedicate the time to it I feel it needs, I would not have sufficient time to clear any of my other projects.&lt;/p&gt;
+
+&lt;p&gt;Those that know me, know I’m my own worst critic. I’m also fiercly proud of my personal integrity, and –  much as it pains me to admit it – it’s been pretty clear that this last year or so under my leadership has been less than effective. In my candidacy I promised at least incidence of national media coverage and I was unable to deliver. That was a significant failure on my part, and I willingly accept responsibility for that.&lt;/p&gt;
+
+&lt;p&gt;In addition, I have been significantly deficient in attempts to recruit and encourage new membership and to help new parties start. It was not deliberate, and I can only reiterate that my failings are due to taking on far too much for my ability, leaving me unable to do anything effectively.&lt;/p&gt;
+
+&lt;p&gt;For my hubris I strongly apologize.&lt;/p&gt;
+
+&lt;p&gt;In actuality, the Pirate National Committee is due for replacements (due back in December actually) and so it’s actually past time for some fresh blood at the helm. Thus, as with 
+&lt;a href="https://medium.com/@liz_kusanagi/recovering-and-the-future-f5c0fff8fd23#.hap4kwpdz"&gt;Liz's announcement a few days ago&lt;/a&gt;, I’ll be stepping back entirely.&lt;/p&gt;
+
+&lt;p&gt;I will not be vanishing entirely though. I will still be researching and writing on pirate topics, plus one of the projects I hope to have finished is a history of the first ten years of the Pirate Party movement, worldwide. In addition, I hope to finally be able to finish the second edition of No Safe Harbor, and get out its sequel, which is a number of years delayed at present.&lt;/p&gt;
+
+&lt;p&gt;And as to the inevitable question “Will I be back (again)”, that’s a question for the future, and certainly not one I can answer at present.&lt;/p&gt;
+
+&lt;p&gt;It’s been a long strange road at times the last ten years, but it’s not one I would trade for anything.&lt;/p&gt;
+
+&lt;p&gt;Andrew "K`Tetch" Norton&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Trump for Pirate President?</title>
+    <link rel="alternate" href="http://blog.url.com/blog/Trump-for-Pirate-President/"/>
+    <id>http://blog.url.com/blog/Trump-for-Pirate-President/</id>
+    <published>2016-02-06T17:46:40-05:00</published>
+    <updated>2016-03-22T16:57:48-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I recently got a letter from Myron Goretzky at the ‘Coalition for National Referendum’ (CNR), trying to convince me that the Pirate Party should support Donald Trump for President.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/800/1*I-vCmBb19GnggIC040Fi1w.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;In case you hadn’t noticed, the 
+&lt;a href="https://uspirates.org/"&gt;US Pirate Party&lt;/a&gt; (I’m assuming he means the US Pirate Party anyway, doubt a 
+&lt;a href="https://pirateparty.org.uk/"&gt;Pirate Party UK&lt;/a&gt; endorsement would get me fame and fortune — Note to Myron: Be More Specific in your sales pitch) hasn’t endorsed anyone, and there’s some history to that, so let me start by explaining that.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;In January 2008 under my leadership, the US Pirate Party (USPP) 
+&lt;a href="https://torrentfreak.com/pirate-party-endorses-obama-080103/"&gt;endorsed President Obama’s candidacy&lt;/a&gt;. In discussions with his campaign, we were promised transparency, forward thinking evidence based agendas and issues. Six months later, we had to withdraw that endorsement. The reason was the FISA Amendments Act. Among other things, this gave retroactive immunity from prosecution for telecom companies that had participated in illegal and unconstitutional surveillance on the American people with the Bush National Security entities. This is a bad thing, as it gave companies a pass on violating the rights of the citizens just because the government asked nicely. 
+&lt;a href="https://www.govtrack.us/congress/votes/110-2008/s168"&gt;Obama voted Yea&lt;/a&gt;, while Clinton voted No, and McCain didn’t vote. Under Obama we’ve had the 
+&lt;a href="http://www.pbs.org/wgbh/frontline/article/obama-on-mass-government-surveillance-then-and-now/"&gt;expansion of surveillance&lt;/a&gt;, and the 
+&lt;a href="http://www.politifact.com/punditfact/statements/2014/jan/10/jake-tapper/cnns-tapper-obama-has-used-espionage-act-more-all-/"&gt;heavy prosecution of whistleblowers&lt;/a&gt; attempting to bring any sort of accountability to the Government — one of our key points — while attempting to 
+&lt;a href="http://www.theguardian.com/commentisfree/2013/jun/06/obama-verizon-surveillance-erosion-liberties"&gt;undermine privacy&lt;/a&gt; — the second of our key points.&lt;/p&gt;
+
+&lt;p&gt;So now, it’s extremely unlikely that the US Pirate Party would endorse anyone as a whole; once bitten twice shy as the saying goes. Now it may be up to the state parties to decide for themselves if they want to endorse, but the national group, nope.&lt;/p&gt;
+
+&lt;p&gt;However, to the letter.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Only under the most suspicious of circumstances will Donald Trump not be the Nominee of the Republican Party“ To restore Democracy under those circumstances we believe that Donald Trump should be, in conjunction with other Political Parties, the Presidential Nominee of the Pirate Party.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Suspicious? Hardly. While he may be a loud and rambunctious orator with a significantly outspoken support base, his support base is numerically not as large as its media impact would assume. Additionally, his 
+&lt;a href="http://www.politifact.com/personalities/donald-trump/"&gt;bombastic rhetoric of falsehoods&lt;/a&gt; and insubstantial policy boasts (which mostly resort to ‘
+here’s an idea, I’ll think up some details later’ pronouncements) are matched only by his demagoguery-laden rants which may well appeal to emotions (hatred is an emotion) and stoke fear amongst those whose knuckles have carpet-burns, that their easy ride in life might be made harder by having to compete with better people.&lt;/p&gt;
+
+&lt;p&gt;Many people actually understand that if the Republican Primary were actually an series of The Apprentice, Mr Trump would be fired on week one because while he might have a decent sales attitude, his sales pitch is for a product he doesn’t have and could never deliver, all while his business plan is non-existent. Nor could he fall back on his wealth as a sign he knows what he’s doing, not when ‘letting someone else handle it’ would have resulted in perhaps three times as much, so he’s not exactly a great businessman either.&lt;/p&gt;
+
+&lt;p&gt;[caption id="" align="aligncenter" width="600"]
+&lt;img alt="" src="https://cdn-images-1.medium.com/max/600/1*tp8fUx9Kc1aBYCWpLBlH7A.jpeg" /&gt; One of these is a spoilt rich kid whose parents didn't love them enough to tell them ‘no’. Oooh, wait, that’s both of them…[/caption]&lt;/p&gt;
+
+&lt;p&gt;Then there’s his mannerisms. He’s basically bullied his way through things, and that’s incredibly polarizing. It appeals to bullies, but alienates those who think the position of President should be filled by someone who isn’t a “moron with a Megaphone”, and a cowardly one at that. His&lt;a href="https://www.washingtonpost.com/news/the-fix/wp/2016/01/26/here-are-the-megyn-kelly-questions-that-donald-trump-is-still-sore-about/"&gt;petulant spat with Megyn Kelly&lt;/a&gt;over what were basic and obvious questions highlight his very unsuitability for office and his tantrums since, including his refusal to participate in a debate in case he should have to — god forbid — answer some more softball questions from her (it’s not like she’s asking complex policy questions) speaks incredibly poorly to his mental state and ability to deal with the most basic rigours of ANY public office.&lt;/p&gt;
+
+&lt;p&gt;So no, it’s not ‘the most suspicious of circumstances’, it’s actually more ‘the most probable of circumstances’. To paraphrase Jay and Silent Bob Strikes Back, “
+He’s a one-note joke that only cowards cheer for, spouting catchphrases like a 3rd rate Ted Nugent or Rush Limbaugh. He’s Clown Shoes.”&lt;/p&gt;
+
+&lt;p&gt;What reason could we possible have to endorse this pathetic egesta of a candidate?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This would enable the Pirate Party, in conjunction with other Political Parties, to receive the National coverage and fundraising comparable to the Democratic and Republican Parties.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ah, so principles have nothing to do with why we should endorse him. We should endorse him not because his views align, but because that way we can get 
+&lt;strong&gt;MONEY&lt;/strong&gt;
+ and 
+&lt;strong&gt;PUBLICITY&lt;/strong&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Is there anything sadder and more pathetic in this world than the wretched dregs of humanity who will say and do anything in order to get publicity or money? Prostituting one’s principles, integrity and self-respect because someone flashed some cash and a camera your way.&lt;/p&gt;
+
+&lt;p&gt;Frankly, I don’t know what’s worse, that there are probably those that would sell themselves for a mess of pottage, or that he thinks I’m one of them.&lt;/p&gt;
+
+&lt;p&gt;On the lighter side, anyone that did take up this foolish offer may wish they’d held out for more, as any coverage from the endorsement is likely to be minimal, and there’s liable to be no money magically winging its way to them. It’s not how it works.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We would like to list your name Website and/or email address on our Website, 
+&lt;a href="http://www.nationalreferendum.org/"&gt;www.nationalreferendum.org&lt;/a&gt;, in support of the following:"Should Donald Trump NOT be the Nominee of the Republican Party then we support Donald Trump being the Presidential Nominee of the Pirate Party in conjunction with other Political Parties,"&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I thought it was only ‘under the most suspicious of circumstances’ that he wouldn’t get the nod. So why do you want us to say anything? Could it be you’re hoping that if you get ‘
+someone’ you’ll get some of the attention you promise others?&lt;/p&gt;
+
+&lt;p&gt;Whichever way you try and spin it, it’s a pathetic attempt to try and drum up support for what is possibly one of THE most ridiculous and farcical candidatures in American politics (and that’s saying a lot).&lt;/p&gt;
+
+&lt;p&gt;Perhaps the ‘CNR’ would be better named “Can Not Read” because if they’d read anything about the Pirate Party, they’d know we’re not even in the same ballpark.&lt;/p&gt;
+
+&lt;p&gt;I will say this though Myron, you provided us with one hell of a laugh. The only thing the mollified us in that was that the fear that you’re serious in your support, and not just out for another cheap publicity stunt like your 
+&lt;a href="https://news.google.com/newspapers?nid=2209&amp;amp;dat=19751016&amp;amp;id=TpJKAAAAIBAJ&amp;amp;sjid=gpQMAAAAIBAJ&amp;amp;pg=3510,3137496&amp;amp;hl=en"&gt;1976 Presidential campaign.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As it stands, I’m afraid it’s a ‘No’ to the fabulous fame and wonderful wealth you promise. Integrity means too much to me, and there’s one particular phrase that sums up why to me:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“If you could be bought, you wouldn’t be worth the price they paid”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A person, group or organization who readily sells out their core beliefs, has no worth at all, and I do not consider myself worthless. Perhaps your email will land in the inbox of some worthless unprincipled soul, where you can pimp Verruca Salt’s candidacy to them. All I can say is that I pity them, for having fallen so hard to be so desperate. We, however, are not so desperate.&lt;/p&gt;
+
+&lt;p&gt;Myron, You’re Fired!&lt;/p&gt;
+
+&lt;p&gt;Andrew Norton
+Chair, US Pirate Party&lt;/p&gt;
+</content>
+  </entry>
+</feed>
